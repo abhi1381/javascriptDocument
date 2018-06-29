@@ -1,0 +1,64 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 250px;
+  box-shadow: 3px 0 6px rgba(0,0,0,.24);
+}
+
+.mat-divider {
+  border: 1px solid rgb(78, 104, 6);
+}
+
+header {
+  display: block;
+  color: rgb(88, 40, 165);
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+}
+
+#main-section {
+  font-size: 1.35em;
+  min-width: 300px;
+  display: block;
+  color: rgb(104, 101, 101);
+  background: rgb(255, 255, 255);
+  margin: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.5;
+  position: relative;
+  margin-left: 10px;
+  padding: 30px;
+  margin-bottom: 120px;
+}
+
+section article {
+  color: rgb(3, 80, 80);
+  margin: 20px;
+  font-size: 1em;
+}
+
+section li {
+  margin: 10px 0 10px 20px;
+  display: list-item;
+  list-style-type: disc;
+  list-style-image: 🎈;
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.048);
+  border: 0.5px solid rgba(0,0,0,.03);
+  border-radius: 5px;
+  display: block;
+  margin: 16px auto;
+  overflow-x: auto;
+  padding: 20px;
+  white-space: pre;
+}
+
+code {
+  font-family: 'Times New Roman', Times, serif;
+
+}
